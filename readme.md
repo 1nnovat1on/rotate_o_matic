@@ -1,5 +1,3 @@
-Here’s a good starting point for your `README.md` — it documents what the project does, how to install, run, and extend it:
-
 ````markdown
 # Sphere Navigator
 
