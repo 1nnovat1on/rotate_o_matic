@@ -101,10 +101,3 @@ Theta (deg): 45.00   Phi (deg): 0.00
 ## License
 
 MIT License — use and modify freely.
-
-```
-
----
-
-
-```
